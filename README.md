@@ -1,9 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+This is a repositorie for the course Ruby on rails Begginers Guide 
 
 * Ruby version
 
